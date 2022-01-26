@@ -1,0 +1,24 @@
+{
+  "name": "e-voting-dapp",
+  "version": "1.0.0",
+  "description": "e-voting dApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://thankgodezeoffor@bitbucket.org/digiscript/e-voting-dapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/digiscript/e-voting-dapp/issues"
+  },
+  "homepage": "https://bitbucket.org/digiscript/e-voting-dapp#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.1",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2"
+  }
+}
