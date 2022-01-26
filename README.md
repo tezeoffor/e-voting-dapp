@@ -1,29 +1,24 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+We will be creating a simple decentralized e-voting app where users can vote between candidates. 
 
-### What is this repository for? ###
+We will also be building a UI for interacting with the blockchain and smart contract
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
+### Requirements ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* NodeJS v8.9.4 or later.
+* Truffle, which you can install with *npm install -g truffle*
+* Metamask extension added to the browser, which you can add from https://metamask.io/download.html
+* Express.js, dotenv and @truffle/hdwallet-provider (instructions to install these are below)
+* You will also need to have performed a cross-chain swap via the Transfer AVAX Between X-Chain 
+  and C-Chain tutorial to get funds to your C-Chain address on the Fuji testnet.
 
-### Contribution guidelines ###
+### Project setup ###
+* Clone repo
 
-* Writing tests
-* Code review
-* Other guidelines
 
 ### Who do I talk to? ###
+* For any questions or comment contact ThankGod or Chris on the slack dev channel.
 
-* Repo owner or admin
-* Other community or team contact
+* Also feel free to communicate to anyone else in the team.
