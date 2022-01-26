@@ -10,7 +10,7 @@ We will also be building a UI for interacting with the blockchain and smart cont
 * NodeJS v8.9.4 or later.
 * Truffle, which you can install with *npm install -g truffle*
 * Metamask extension added to the browser, which you can add from https://metamask.io/download.html
-* Express.js, dotenv and @truffle/hdwallet-provider (instructions to install these are below)
+* Express.js, dotenv and @truffle/hdwallet-provider (npm install express dotenv @truffle/hdwallet-provider --save)
 * You will also need to have performed a cross-chain swap via the Transfer AVAX Between X-Chain 
   and C-Chain tutorial to get funds to your C-Chain address on the Fuji testnet.
 
