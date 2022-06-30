@@ -19,6 +19,7 @@
   "dependencies": {
     "@truffle/hdwallet-provider": "^2.0.1",
     "dotenv": "^14.3.2",
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "pify": "^5.0.0"
   }
 }
